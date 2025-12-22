@@ -18,7 +18,7 @@ pip install "python-telegram-bot[job-queue]" aiohttp python-dotenv brotli
 3. Create the Configuration File
 Create a file named .env in your project folder and paste your token inside:
 
-TELEGRAM_BOT_TOKEN=your_token_from_botfather_here
+TELEGRAM_BOT_TOKEN= THE TOKEN 
 
 5. Create the Bot Script
 Create a file named main.py and paste the full source code of the bot into it.
