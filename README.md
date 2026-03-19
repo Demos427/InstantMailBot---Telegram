@@ -38,7 +38,3 @@ That's it! The bot will automatically create the necessary database files (compt
 comptes.json: Stores your active email sessions.
 messages.json: Stores all received emails in readable text format.
 These files are created automatically by the bot.
-
-messages.json: Stores all received emails in readable text format.
-
-These files are created automatically by the bot.
